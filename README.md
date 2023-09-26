@@ -22,5 +22,5 @@ Interval should be left to once, as with integer script would be run every inter
 
 ## Usage
 
-If block says "DPMS is Enabled", it is enabled, and on click it will be disabled.
+If block says "DPMS is Enabled", it is enabled, and on click it will be disabled. <br>
 If block says "DPMS is Disabled", it is disabled, and on click it will be enabled.
